@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2eb6f57c-59eb-4093-85fe-c6810ab10229" name="MUSE">
+        <fileTransfer rootFolder="/dat01/laizhiquan/psl/Project/UNMT/MUSE" accessType="SFTP" host="laizhiquanCNGrid12@ssh.paracloud.com" port="22" sshConfigId="779ab89f-6dca-43bb-bdc3-cb1c4c74ee5a" sshConfig="laizhiquan@laizhiquanCNGrid12@ssh.paracloud.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
